@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyCashRegisrtyApp</string>
+    <string name="manager">Manager</string>
+    <string name="buy">Buy</string>
+    <string name="quantityPh">Quantity</string>
+    <string name="totalCostPh">Total</string>
+    <string name="product_type">Product Type</string>
+    <string name="quantity">Quantity</string>
+    <string name="chooseProdTypePh">Choose Product</string>
+    <string name="cost">Cost</string>
+    <string name="product">Product</string>
+    <string name="dateOfPurchase">Date</string>
+    <string name="price">price</string>
+    <string name="restock">Restock</string>
+    <string name="history">history</string>
+    <string name="insert_new_quantity">Insert New Quantity</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+</resources>
